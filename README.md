@@ -1,6 +1,3 @@
-Here's your complete, professional README content:
-
----
 
 # Customer Churn Prediction Using Machine Learning
 
